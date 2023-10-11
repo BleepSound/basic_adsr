@@ -10,7 +10,7 @@ Just change the values of **C8** and **C9**, which can be either polarized elect
 
 ## Schematics
 
-![basic ADSR schematic](documentation/image/Basic-ADSR--schematic.svg)
+![basic ADSR schematic](documentation/image/Basic-ADSR--Schematic.svg)
 
 ## BoM
 
