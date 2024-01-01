@@ -553,7 +553,7 @@
     (stroke (width 0.05) (type solid)) (layer "Edge.Cuts") (tstamp da49333a-2ae3-46a7-85b7-29e867a658b0))
   (gr_line (start 89.5 24.5) (end 109.5 24.5)
     (stroke (width 0.05) (type solid)) (layer "Edge.Cuts") (tstamp e09508cd-85e8-48bb-9bcb-9bab32279ab6))
-  (gr_text "Basic ADSR 1.0\nBleep Sound 2023" (at 99.5 32.5) (layer "B.SilkS") (tstamp 7e692442-7386-417b-baf5-0511fb025c25)
+  (gr_text "Basic ADSR 1.1\nBleep Sound 2024" (at 99.5 32.5) (layer "B.SilkS") (tstamp 7e692442-7386-417b-baf5-0511fb025c25)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "JLCJLCJLCJLC\n" (at 91 76 -90) (layer "B.SilkS") (tstamp fed97871-4d75-4194-a3d3-5b61f2a948a5)

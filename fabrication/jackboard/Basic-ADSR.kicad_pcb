@@ -1039,7 +1039,7 @@
   (gr_text "JLCJLCJLCJLC\n" (at 83 64.5 90) (layer "B.SilkS") (tstamp adb1a1bc-72f2-4b9c-933d-329680c5ef9e)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "Basic ADSR 1.0\nBleep Sound 2023" (at 74 86.5) (layer "F.SilkS") (tstamp c2dfc684-04bc-4285-aa91-13554d826f1e)
+  (gr_text "Basic ADSR 1.1\nBleep Sound 2024" (at 74 86.5) (layer "F.SilkS") (tstamp c2dfc684-04bc-4285-aa91-13554d826f1e)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 831a974e-c5c5-4922-ab32-b8a45485341d)
